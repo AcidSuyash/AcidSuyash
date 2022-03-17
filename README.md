@@ -31,7 +31,7 @@
 <img align="left" alt="Html | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="Css | Logo" height="40px" target="https://icons8.com/icons/set/gmail" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="Git | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/glyph-neue/64/000000/github.png"/><br><br>
+<img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/ios/50/000000/github--v1.png"/><br><br>
 
 ### Tools
 <img align="left" alt="Gcloud | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
